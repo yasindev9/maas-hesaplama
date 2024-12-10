@@ -1,0 +1,3 @@
+﻿  maasHesapla.cpp
+C:\Users\Yasin\source\repos\ders1\maasHesapla\maasHesapla.cpp(46,3): warning C4551: işlev çağrısında bağımsız değişken listesi eksik
+  maasHesapla.vcxproj -> C:\Users\Yasin\source\repos\ders1\x64\Debug\maasHesapla.exe
